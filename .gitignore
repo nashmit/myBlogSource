@@ -1,5 +1,4 @@
-**/log
-log/*.log
+**/*.log
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
